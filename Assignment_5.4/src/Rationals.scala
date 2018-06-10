@@ -1,9 +1,8 @@
 
-
 object Rationals {
   def main(args: Array[String]) {
  
- // Now, pass the above numbers to Rational Class
+ // We are passing numbers to Rational Class for three cases when two nos are integers , two nos are rationals and one is rational and the other is integer.
  /*var a = new Rational(4,3)
  var b = new Rational(10,7)
  var a = new Rational(4,2)
